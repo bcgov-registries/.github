@@ -4,6 +4,8 @@
 ### Home of the Business, Personal Property and Manufactured Homes Registries
 
 
-![Business Registry Image](images/businessregistry.png)
-![Personal Property Registry Image](images/propertyvisual.png)
-![Manufactured Homes Registry Image](images/manufacturedvisual.png)
+<img alt="Business Registry Image" src="images/businessregistry.png" width="200">
+
+<img alt="Personal Property Registry Image" src="images/propertyvisual.png" width="200">
+
+<img alt="Manufactured Homes Registry Image" src="images/manufacturedvisual.png" width="200">
